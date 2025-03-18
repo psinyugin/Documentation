@@ -4,6 +4,7 @@
 
 https://miro.com/app/board/uXjVIVwWeh4=/?share_link_id=175957212164
 
+
 Пример баг-репорт
 
 ## [bug][web][прод] В корзине при клике на ссылку "Continue Shopping" ничего не происходит
