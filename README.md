@@ -16,3 +16,6 @@
 Попытаться кликнуть на ссылку "Continue Shopping"
 
 **Текущий результат**
+
+![Header](https://github.com/psinyugin/Documentation/blob/main/assets/scrin.png)
+Ничего не происходит
