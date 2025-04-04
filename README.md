@@ -2,8 +2,7 @@
 
 Пример чек-лист
 
-https://miro.com/app/board/uXjVIVwWeh4=/?share_link_id=175957212164
-
+https://miro.com/welcomeonboard/VVhQZjF0Mm53RVQvSFY1am5uM0FGam9hWURmZlZWdDlyM2Jub0ZHRGhuMVdkYm1lUXRtUWNCS2VUd0R4ZDJSci8wMmQ3QytHVmxRSkQ3c01ucTdGWnQ1NGpyRjlZTXN2K3lXMEpTZGNnTS85VFhwVHZvdWk2YVZSdkszYUoxYVRBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=847418442231
 
 Пример баг-репорт
 
