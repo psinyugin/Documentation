@@ -1,12 +1,12 @@
 # Documentation
 
-Пример чек-лист
+# Пример чек-лист
 
 ![Header](assets/maplist.png)
 https://miro.com/app/board/uXjVIO6Nwzw=/?share_link_id=584508071429
 
 
-Пример баг-репорт
+# Пример баг-репорт
 
 ## [bug][web][прод] В корзине при клике на ссылку "Continue Shopping" ничего не происходит
 
