@@ -2,6 +2,7 @@
 
 Пример чек-лист
 
+![Header](https://github.com/psinyugin/Documentation/blob/main/assets/scrin.png)
 https://miro.com/app/board/uXjVIO6Nwzw=/?share_link_id=584508071429
 
 
